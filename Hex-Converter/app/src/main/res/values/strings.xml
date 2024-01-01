@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hex Converter</string>
+    <string name="btnConvert">Convert</string>
+    <string name="btnCopy">Copy</string>
+    <string name="txtInput">Text input</string>
+    <string name="txtResult">Conversion result</string>
+</resources>
