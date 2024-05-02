@@ -2,6 +2,14 @@
     <string name="app_name">Hex Converter</string>
     <string name="btnConvert">Convert</string>
     <string name="btnCopy">Copy</string>
-    <string name="txtInput">Text input</string>
-    <string name="txtResult">Conversion result</string>
+    <string name="txtInputHint">Text input</string>
+    <string name="txtResultHint">Conversion result</string>
+    <string name="btnconvert">Convert</string>
+    <string name="txtFunction">Hex To String</string>
+    <string name="txtHex">Hex</string>
+    <string name="txtText">Text</string>
+    <string name="logErrorInputEmpty">The input string is empty!!!</string>
+    <string name="logErrorResultEmpty">The result string is empty!!!</string>
+    <string name="logInfoCopySuccess">Content copied successfully!!!</string>
+    <string name="logErroPaste">No content from the clipboard!!!</string>
 </resources>

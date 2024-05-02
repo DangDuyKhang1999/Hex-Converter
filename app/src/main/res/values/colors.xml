@@ -2,9 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="txt">#FFFFFF</color>
-    <color name="elevation">#00BCD4</color>
-    <color name="GradienTop">#176B87</color>
-    <color name="GradienCenter">#092635</color>
-    <color name="GradienBottom">#092635</color>
+    <color name="txt">#03A9F4</color>
+    <color name="HexToStringElevation">#00BCD4</color>
+    <color name="HexToStringTop">#176B87</color>
+    <color name="HexToStringCenter">#092635</color>
+    <color name="HexToStringBottom">#092635</color>
 </resources>

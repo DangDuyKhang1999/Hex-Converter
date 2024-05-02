@@ -4,23 +4,33 @@ import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import com.example.convertex.R
+import CustomToastType.*
+
+enum class CustomToastType {
+    SUCCESS,
+    ERROR,
+    INFORMATION
+}
 
 class CustomToast {
     companion object {
-        fun showCustomToast(context: Context, message: String, typeInfo: Boolean) {
+        fun showCustomToast(context: Context, message: String, typeInfo: CustomToastType) {
             val inflater =
                 context.getSystemService(Context.LAYOUT_INFLATER_SERVICE) as LayoutInflater
             val view = inflater.inflate(R.layout.toast_custom, null)
             val textView: TextView = view.findViewById(R.id.textView)
             val imageView: ImageView = view.findViewById(R.id.imageView)
             textView.text = message
-            if (typeInfo) {
+            if (typeInfo == SUCCESS) {
                 view.setBackgroundResource(R.drawable.toastbackground)
                 imageView.setImageResource(R.drawable.baseline_check_circle_outline_24)
             }
-            else
-            {
+            else if (typeInfo == ERROR){
                 view.setBackgroundResource(R.drawable.toastbackgrounderror)
+                imageView.setImageResource(R.drawable.baseline_error_outline_24)
+            }
+            else if (typeInfo == INFORMATION){
+                view.setBackgroundResource(R.drawable.toastbackgroundinformation)
                 imageView.setImageResource(R.drawable.baseline_error_outline_24)
             }
 

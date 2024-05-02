@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="HexToStringBottom">#092635</color>
+    <color name="HexToStringCenter">#092635</color>
+    <color name="HexToStringElevation">#00BCD4</color>
+    <color name="HexToStringTop">#176B87</color>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#176B87</color>
+    <color name="txt">#03A9F4</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Hex Converter</string>
+    <string name="btnConvert">Convert</string>
+    <string name="btnCopy">Copy</string>
+    <string name="btnconvert">Convert</string>
+    <string name="logErroPaste">No content from the clipboard!!!</string>
+    <string name="logErrorInputEmpty">The input string is empty!!!</string>
+    <string name="logErrorResultEmpty">The result string is empty!!!</string>
+    <string name="logInfoCopySuccess">Content copied successfully!!!</string>
+    <string name="txtFunction">Hex To String</string>
+    <string name="txtHex">Hex</string>
+    <string name="txtInputHint">Text input</string>
+    <string name="txtResultHint">Conversion result</string>
+    <string name="txtText">Text</string>
+    <style name="Base.Theme.HexConverter" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.HexConverter" parent="Base.Theme.HexConverter"/>
+</resources>
