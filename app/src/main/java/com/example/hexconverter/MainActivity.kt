@@ -6,7 +6,6 @@ import android.os.Build
 import android.os.Bundle
 import android.text.Editable
 import android.view.animation.Animation
-import android.view.animation.AnimationUtils
 import android.view.animation.TranslateAnimation
 import androidx.appcompat.app.AppCompatActivity
 import com.example.convertex.R
@@ -15,7 +14,7 @@ import java.nio.charset.StandardCharsets
 
 @Suppress("DEPRECATION")
 class MainActivity : AppCompatActivity() {
-    val hexArray = "0123456789ABCDEF".toCharArray()
+    private val hexArray = "0123456789ABCDEF".toCharArray()
     private lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -84,7 +83,6 @@ class MainActivity : AppCompatActivity() {
 
                 override fun onAnimationRepeat(animation: Animation?) {}
             })
-
             binding.btnSource.startAnimation(moveSourceAnimation)
             binding.btnDestination.startAnimation(moveDestinationAnimation)
         }
@@ -121,7 +119,7 @@ class MainActivity : AppCompatActivity() {
         return data.copyOf(j)
     }
 
-    fun stringToHex(inputString: String): String {
+    private fun stringToHex(inputString: String): String {
         val bytes = inputString.toByteArray(Charsets.UTF_8)
         val hexChars = CharArray(bytes.size * 2)
         for (i in bytes.indices) {
@@ -200,7 +198,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
         // Paste the text from clipboard to input textview
-        binding.btnInputPaste.setOnClickListener() {
+        this.binding.btnInputPaste.setOnClickListener() {
             val strPaste = getClipboardText()
             if (strPaste.isNullOrEmpty()) {
                 CustomToast.showCustomToast(
