@@ -3199,7 +3199,6 @@ id btnDestination
 id btnInputCopy
 id btnInputPaste
 id btnResultCopy
-id btnResultPaste
 id btnSource
 id btnSwap
 id btn_convert

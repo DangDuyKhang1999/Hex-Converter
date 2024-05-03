@@ -1,182 +1,190 @@
 [
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable_baseline_swap_horiz_24.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable\\baseline_swap_horiz_24.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable_baseline_error_outline_24.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable/baseline_error_outline_24.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable-mdpi_ic_paste.png.flat",
-        "source": "com.example.convertex.app-main-37:/drawable-mdpi/ic_paste.png"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable_btnbackground.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable\\btnbackground.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/layout_activity_main.xml.flat",
-        "source": "com.example.convertex.app-main-37:/layout/activity_main.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable_backgroundhextostring.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable\\backgroundhextostring.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable-hdpi_ic_paste.png.flat",
-        "source": "com.example.convertex.app-main-37:/drawable-hdpi/ic_paste.png"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable-xhdpi_ic_copy.png.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable-xhdpi\\ic_copy.png"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable-anydpi_ic_paste.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable-anydpi/ic_paste.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable-xhdpi_ic_paste.png.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable-xhdpi\\ic_paste.png"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable_txtlabel.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable\\txtlabel.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable_toastbackgroundinformation.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable/toastbackgroundinformation.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\layout_toast_custom.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\layout\\toast_custom.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable_btnbackground.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable/btnbackground.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable-mdpi_ic_copy.png.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable-mdpi\\ic_copy.png"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-xhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable-hdpi_ic_copy.png.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable-hdpi\\ic_copy.png"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable-xxhdpi_ic_copy.png.flat",
-        "source": "com.example.convertex.app-main-37:/drawable-xxhdpi/ic_copy.png"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-mdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/xml_backup_rules.xml.flat",
-        "source": "com.example.convertex.app-main-37:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\anim_rotate_animation.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\anim\\rotate_animation.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/menu_menu_top.xml.flat",
-        "source": "com.example.convertex.app-main-37:/menu/menu_top.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable_toastbackground.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable\\toastbackground.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable-anydpi_ic_copy.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable-anydpi\\ic_copy.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/layout_toast_custom.xml.flat",
-        "source": "com.example.convertex.app-main-37:/layout/toast_custom.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable-hdpi_ic_copy.png.flat",
-        "source": "com.example.convertex.app-main-37:/drawable-hdpi/ic_copy.png"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable-xxhdpi_ic_copy.png.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable-xxhdpi\\ic_copy.png"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable_baseline_error_outline_24.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable\\baseline_error_outline_24.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable_baseline_swap_horiz_24.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable/baseline_swap_horiz_24.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable-xxhdpi_ic_paste.png.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable-xxhdpi\\ic_paste.png"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable_txtconvertbackground.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable/txtconvertbackground.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\anim_rotate_clockwise.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\anim\\rotate_clockwise.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable-mdpi_ic_copy.png.flat",
-        "source": "com.example.convertex.app-main-37:/drawable-mdpi/ic_copy.png"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\menu_menu_top.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\menu\\menu_top.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable_toastbackgrounderror.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable/toastbackgrounderror.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable_txtlabel.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable/txtlabel.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable_baseline_check_circle_outline_24.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable/baseline_check_circle_outline_24.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable_toastbackground.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable/toastbackground.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable_toastbackgroundinformation.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable\\toastbackgroundinformation.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable_baseline_info_outline_24.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable\\baseline_info_outline_24.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable_txtconvertbackground.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable\\txtconvertbackground.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable-anydpi_ic_copy.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable-anydpi/ic_copy.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable_baseline_info_outline_24.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable/baseline_info_outline_24.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable-anydpi_ic_paste.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable-anydpi\\ic_paste.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable-xxhdpi_ic_paste.png.flat",
-        "source": "com.example.convertex.app-main-37:/drawable-xxhdpi/ic_paste.png"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-mdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable_baseline_check_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable\\baseline_check_circle_outline_24.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable_toastbackgrounderror.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable\\toastbackgrounderror.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable-xhdpi_ic_copy.png.flat",
-        "source": "com.example.convertex.app-main-37:/drawable-xhdpi/ic_copy.png"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.convertex.app-main-37:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable-xhdpi_ic_paste.png.flat",
-        "source": "com.example.convertex.app-main-37:/drawable-xhdpi/ic_paste.png"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable-hdpi_ic_paste.png.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable-hdpi\\ic_paste.png"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/drawable_backgroundhextostring.xml.flat",
-        "source": "com.example.convertex.app-main-37:/drawable/backgroundhextostring.xml"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.convertex.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.convertex.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\drawable-mdpi_ic_paste.png.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\drawable-mdpi\\ic_paste.png"
+    },
+    {
+        "merged": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dangd\\.gradle\\daemon\\8.2\\com.example.convertex.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
     }
 ]

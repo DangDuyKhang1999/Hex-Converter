@@ -37,9 +37,6 @@ public final class ActivityMainBinding implements ViewBinding {
   public final Button btnResultCopy;
 
   @NonNull
-  public final Button btnResultPaste;
-
-  @NonNull
   public final TextView btnSource;
 
   @NonNull
@@ -53,15 +50,14 @@ public final class ActivityMainBinding implements ViewBinding {
 
   private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull Button btnConvert,
       @NonNull TextView btnDestination, @NonNull Button btnInputCopy, @NonNull Button btnInputPaste,
-      @NonNull Button btnResultCopy, @NonNull Button btnResultPaste, @NonNull TextView btnSource,
-      @NonNull Button btnSwap, @NonNull EditText txtInput, @NonNull TextView txtResult) {
+      @NonNull Button btnResultCopy, @NonNull TextView btnSource, @NonNull Button btnSwap,
+      @NonNull EditText txtInput, @NonNull TextView txtResult) {
     this.rootView = rootView;
     this.btnConvert = btnConvert;
     this.btnDestination = btnDestination;
     this.btnInputCopy = btnInputCopy;
     this.btnInputPaste = btnInputPaste;
     this.btnResultCopy = btnResultCopy;
-    this.btnResultPaste = btnResultPaste;
     this.btnSource = btnSource;
     this.btnSwap = btnSwap;
     this.txtInput = txtInput;
@@ -125,12 +121,6 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.btnResultPaste;
-      Button btnResultPaste = ViewBindings.findChildViewById(rootView, id);
-      if (btnResultPaste == null) {
-        break missingId;
-      }
-
       id = R.id.btnSource;
       TextView btnSource = ViewBindings.findChildViewById(rootView, id);
       if (btnSource == null) {
@@ -156,8 +146,7 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       return new ActivityMainBinding((ConstraintLayout) rootView, btnConvert, btnDestination,
-          btnInputCopy, btnInputPaste, btnResultCopy, btnResultPaste, btnSource, btnSwap, txtInput,
-          txtResult);
+          btnInputCopy, btnInputPaste, btnResultCopy, btnSource, btnSwap, txtInput, txtResult);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -3198,7 +3198,6 @@ int id btnDestination 0x7f080062
 int id btnInputCopy 0x7f080063
 int id btnInputPaste 0x7f080064
 int id btnResultCopy 0x7f080065
-int id btnResultPaste 0x7f080066
 int id btnSource 0x7f080067
 int id btnSwap 0x7f080068
 int id btn_convert 0x7f080069

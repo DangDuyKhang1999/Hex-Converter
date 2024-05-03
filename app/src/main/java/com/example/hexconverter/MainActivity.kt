@@ -5,6 +5,9 @@ import android.content.ClipboardManager
 import android.os.Build
 import android.os.Bundle
 import android.text.Editable
+import android.view.animation.Animation
+import android.view.animation.AnimationUtils
+import android.view.animation.TranslateAnimation
 import androidx.appcompat.app.AppCompatActivity
 import com.example.convertex.R
 import com.example.convertex.databinding.ActivityMainBinding
@@ -50,16 +53,43 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        binding.btnSwap.setOnClickListener()
-        {
-            if (binding.btnSource.text.toString() == getString(R.string.txtHex)) {
-                binding.btnSource.text = getString(R.string.txtText)
-                binding.btnDestination.text = getString(R.string.txtHex)
-            } else {
-                binding.btnSource.text = getString(R.string.txtHex)
-                binding.btnDestination.text = getString(R.string.txtText)
-            }
+        binding.btnSwap.setOnClickListener {
+            val destinationX = binding.btnDestination.x
+            val destinationY = binding.btnDestination.y
+
+            val moveSourceAnimation = TranslateAnimation(
+                0f,
+                destinationX - binding.btnSource.x,
+                0f,
+                destinationY - binding.btnSource.y
+            )
+            moveSourceAnimation.duration = 1000
+
+            val moveDestinationAnimation = TranslateAnimation(
+                0f,
+                binding.btnSource.x - destinationX,
+                0f,
+                binding.btnSource.y - destinationY
+            )
+            moveDestinationAnimation.duration = 1000
+
+            moveSourceAnimation.setAnimationListener(object : Animation.AnimationListener {
+                override fun onAnimationStart(animation: Animation?) {}
+
+                override fun onAnimationEnd(animation: Animation?) {
+                    val tempText = binding.btnSource.text
+                    binding.btnSource.text = binding.btnDestination.text
+                    binding.btnDestination.text = tempText
+                }
+
+                override fun onAnimationRepeat(animation: Animation?) {}
+            })
+
+            binding.btnSource.startAnimation(moveSourceAnimation)
+            binding.btnDestination.startAnimation(moveDestinationAnimation)
         }
+
+
     }
 
     private fun hexToString(hexString: String): String {
@@ -203,23 +233,6 @@ class MainActivity : AppCompatActivity() {
                     CustomToastType.INFORMATION
                 )
             }
-        }
-
-        // Paste the text from clipboard to result textview
-        binding.btnResultPaste.setOnClickListener() {
-            val strPaste = getClipboardText()
-            if (strPaste.isNullOrEmpty()) {
-                CustomToast.showCustomToast(
-                    this,
-                    getString(R.string.logErroPaste),
-                    CustomToastType.ERROR
-                )
-            } else {
-                val editableText: Editable =
-                    Editable.Factory.getInstance().newEditable(strPaste)
-                binding.txtResult.text = editableText
-            }
-
         }
     }
 

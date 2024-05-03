@@ -125,18 +125,18 @@
         android:layout_height="wrap_content"
         android:background="@drawable/ic_copy"
         app:backgroundTint="@color/white"
-        app:layout_constraintBottom_toBottomOf="@id/txtInput"
-        app:layout_constraintEnd_toStartOf="@+id/btnInputPaste"
-        />
+        app:layout_constraintBottom_toBottomOf="@+id/txtInput"
+        app:layout_constraintEnd_toEndOf="@+id/txtInput" />
+
     <Button
         android:id="@+id/btnInputPaste"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:background="@drawable/ic_paste"
         app:backgroundTint="@color/white"
-        app:layout_constraintBottom_toBottomOf="@id/txtInput"
-        app:layout_constraintEnd_toEndOf="@id/txtInput"
-        />
+        app:layout_constraintBottom_toBottomOf="@+id/txtInput"
+        app:layout_constraintEnd_toStartOf="@+id/btnInputCopy" />
+
     <Button
         android:id="@+id/btnResultCopy"
         android:layout_width="wrap_content"
@@ -144,16 +144,6 @@
         android:background="@drawable/ic_copy"
         app:backgroundTint="@color/white"
         app:layout_constraintBottom_toBottomOf="@id/txtResult"
-        app:layout_constraintEnd_toStartOf="@+id/btnResultPaste"
-        />
-    <Button
-        android:id="@+id/btnResultPaste"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:background="@drawable/ic_paste"
-        app:backgroundTint="@color/white"
-        app:layout_constraintBottom_toBottomOf="@id/txtResult"
-        app:layout_constraintEnd_toEndOf="@id/txtResult"
-    />
+        app:layout_constraintEnd_toEndOf="@+id/txtResult" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
